@@ -22,8 +22,11 @@ This project focuses on designing and implementing a relational database for a m
 - Each movie can be rented for a maximum of 10 days.
 - A late fee of 5 SAR per day applies after the due date.
 
-## Database Design
+## Entity Relationship Diagram
 
+![Movie Rental Store Entity Relationship Diagram](Diagrams/final-erd.png)
+
+## Database Design
 The database consists of six main entities:
 
 | Entity | Description |
@@ -66,11 +69,16 @@ The project demonstrates:
 - Relational Database Design
 - Entity Relationship Diagrams (ERD)
 
-## Course Information
 
-**Course:** CS311 – Database Systems  
-**Institution:** Yanbu Industrial College  
-**Semester:** 471
+## Skills Demonstrated
+
+- **Database Design:** Relational database design, ER modeling, and entity relationships.
+- **SQL & MySQL:** Database creation, table management, data manipulation, and querying.
+- **Database Normalization:** Applying 1NF, 2NF, and 3NF to improve data organization.
+- **SQL Programming:** Writing queries, using aggregate functions, and implementing triggers.
+- **Data Management:** Managing customer records, movie inventory, rental transactions, and payment records.
+- **Problem Solving:** Translating business requirements and rules into a structured database solution.
+
 
 ---
 
