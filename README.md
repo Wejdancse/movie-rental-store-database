@@ -24,7 +24,7 @@ This project focuses on designing and implementing a relational database for a m
 
 ## Entity Relationship Diagram
 
-![Movie Rental Store Entity Relationship Diagram](Diagrams/final-erd.png)
+![Movie Rental Store Entity Relationship Diagram]()
 
 ## Database Design
 The database consists of six main entities:
