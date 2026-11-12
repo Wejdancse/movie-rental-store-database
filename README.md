@@ -21,10 +21,10 @@ This project focuses on designing and implementing a relational database for a m
 - Each customer can have up to 5 active rentals.
 - Each movie can be rented for a maximum of 10 days.
 - A late fee of 5 SAR per day applies after the due date.
-
+- 
 ## Entity Relationship Diagram
 
-![Movie Rental Store Entity Relationship Diagram]()
+![Movie Rental Store Entity Relationship Diagram](Diagrams/final-erd.png)
 
 ## Database Design
 The database consists of six main entities:
